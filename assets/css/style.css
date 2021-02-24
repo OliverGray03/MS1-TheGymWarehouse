@@ -1,0 +1,27 @@
+/*---------------------------Footer--------------------*/
+
+.footer-top {
+    text-align: center;
+    color: #ffffff;
+    background-color: #f1f1f1;
+}
+
+.footer-socials a {
+    color: #000000;
+}
+
+.footer-socials a:hover {
+    color: #cf0404;
+}
+
+.footer-bottom {
+    text-align: center;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.2);
+
+}
+
+.footer-bottom a {
+    color: #000000;
+}
+
