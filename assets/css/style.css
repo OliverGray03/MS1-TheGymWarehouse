@@ -1,3 +1,27 @@
+/*----------------------------Nav Bar-------------------*/
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.nav-item a {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
 /*---------------------------Footer--------------------*/
 
 .footer-top {
