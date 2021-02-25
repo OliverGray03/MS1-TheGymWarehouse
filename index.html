@@ -10,6 +10,7 @@
     <title>The Gym Warehouse</title>
 </head>
 <body>
+<!----------------------------Navbar-------------------------------------->
     <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.html">The Gym Warehouse</a>
@@ -33,7 +34,7 @@
           <a class="nav-link" href="#">Classes</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact Us</a>
+          <a class="nav-link" href="contactus.html">Contact Us</a>
         </li>
       </ul>
     </div>
@@ -42,6 +43,10 @@
 <br>
 <br>
 <br>
+
+<!---------------------------------Banner Image---------------------------------------->
+
+
 <!-----------------------------------Trainers------------------------------------------>
     <div class="container-trainers">
         <div class="row">
@@ -69,6 +74,72 @@
             <p>Personal Training to me is more than just giving out exercises and nutritional advice, it's about providing people with a means to complete their goals, a sense of achievement and accountability, the ability to look back at your progress over time and think 'I did that!'.</p>
         </div>
     </div>
+
+<!---------------------------------Free Pass------------------------------------------->
+
+<div class="container">
+    <h2>Get a free 3 day pass</h2>
+
+    <!-- Contact Form -->
+    <form class="free-pass-form" novalidate="">
+      <div class="row aos-init aos-animate" data-aos="fade-up">
+
+        <!-- First Name Input -->
+        <div class="col-md-6 form-group">
+          <input type="text" placeholder="First Name *" class="form-control" required="">
+
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide your first name
+          </div>
+        </div>
+
+        <!-- Last Name Input -->
+        <div class="col-md-6 form-group">
+          <input type="text" placeholder="Last Name *" class="form-control" required="">
+
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide your last name
+          </div>
+        </div>
+      </div>
+
+
+      <div class="row aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+        <!-- Phone Input -->
+        <div class="col-md-6 form-group">
+          <input type="text" placeholder="Phone Number *" class="form-control" required="">
+
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide your phone number
+          </div>
+        </div>
+
+        <!-- Email Input -->
+        <div class="col-md-6 form-group">
+          <input type="email" placeholder="Email *" class="form-control" required="">
+
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide your email address
+          </div>
+        </div>
+      </div>
+
+      <!-- Submit Button -->
+      <button id="submit-button"type="submit" class="btn btn-full-width btn-primary btn-contact aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">Get a FREE 3 Day Pass</button>
+    </form>
+  </div>
 
 
 <!---------------------------------Footer---------------------------------------------->
