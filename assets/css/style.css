@@ -9,16 +9,36 @@
     text-transform: uppercase;
 }
 
+.navbar-brand:hover {
+    color: #cf0404;
+}
+
 .nav-item a {
     color: #000000;
     text-transform: uppercase;
 }
 
+#navbar-menu li {
+    float: right;
+    margin-right: 30px;
+}
 
+/*------------------------------Trainers----------------------------*/
 
+.container-trainers {
+    text-align: center;
+}
 
+.trainers-heading {
+    text-align: center;
+}
 
-
+.trainer-image {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+}
 
 
 
