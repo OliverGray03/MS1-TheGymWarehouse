@@ -1,21 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
 /*----------------------------Nav Bar-------------------*/
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
+.navbar-nav {
+    margin-left: auto;
+}
+
 .navbar-brand {
     color: #000000;
     text-transform: uppercase;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .navbar-brand:hover {
-    color: #ff00ef;
+    color: #22c3da;
 }
 
 .nav-item a {
     color: #000000;
     text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.nav-item a:hover {
+    color: #22c3da;
 }
 
 #navbar-menu li {
@@ -28,13 +41,35 @@
 .bgimage {
   width:100%;
   height:500px;
-  background: url("/assets/images/luis-vidal-FodEsaNZs48-unsplash\ \(3\).jpg");
+  background: url("/assets/images/heroimage.jpg");
   background-repeat: no-repeat;
   background-position-x: center;
   background-size: cover;
   background-attachment: fixed;
   background-position-y: -500px;
 }
+
+
+/*------------------------------About Us ---------------------------*/
+body {
+    background-color: #f1f1f1;
+}
+
+.about-us h2 {
+    text-align: center;
+    font-size: 230%;
+    letter-spacing: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
+    
+}
+
+.about-us {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 
 
 /*------------------------------Trainers----------------------------*/
@@ -45,13 +80,19 @@
 
 .trainers-heading {
     text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
 }
 
 .trainer-image {
-    height: 140px;
-    width: 140px;
+    width:200px;
+    height:200px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: 0px;
     border-radius: 50%;
-    overflow: hidden;
 }
 
 /*--------------------------------Map-------------------------------*/
@@ -60,6 +101,8 @@
     display: block;
     width: 100%;
     height: 100%;
+    position: relative;
+    overflow: hidden;
 }
 
 /*-------------------------------Footer-----------------------------*/
@@ -78,7 +121,7 @@
 }
 
 .footer-socials a:hover {
-    color: #ff00ef;
+    color: #22c3da;
 }
 
 .footer-bottom {
@@ -99,9 +142,10 @@
 /*-------------------------Win----------------------*/
 
 #submit-button {
+    font-family: 'Hind Siliguri', sans-serif;
     color: #fff;
-    background-color: #ff00ef;
-    border: 1px solid #ff00ef;
+    background-color: #22c3da;
+    border: 1px solid #22c3da;
     width: 100%;
     padding: 10px 0;
     border-radius: 0;
@@ -111,19 +155,34 @@
 
 /*-------------------------form----------------------*/
 
-.contacts {
-    padding: 100px;
+.message-content {
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
-form {
-    display: block;
-    margin-top: 0em;
+.message-content p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.message-color {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+
+.contacts-row {
+    display: flex;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 200px;
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #ff00ef;
-    border: 1px solid #ff00ef;
+    color: #474554;
+    background-color: #22c3da;
+    border: 1px solid #22c3da;
 }
 
 .btn-full-width {
@@ -136,4 +195,6 @@ form {
     font-size: 14px;
     line-height: 22px;
 }
+
+
 
