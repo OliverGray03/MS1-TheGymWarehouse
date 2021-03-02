@@ -14,6 +14,8 @@
     color: #000000;
     text-transform: uppercase;
     font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    font-size: 120%;
 }
 
 .navbar-brand:hover {
@@ -23,8 +25,9 @@
 .nav-item a {
     color: #000000;
     text-transform: uppercase;
-    letter-spacing: 2px;
     font-family: 'Hind Siliguri', sans-serif;
+     letter-spacing: 2px;
+     font-size: 120%;
 }
 
 .nav-item a:hover {
@@ -60,6 +63,7 @@ body {
     font-size: 230%;
     letter-spacing: 2px;
     font-family: 'Hind Siliguri', sans-serif;
+    text-transform: uppercase;
     
 }
 
@@ -71,8 +75,40 @@ body {
 }
 
 
+/*------------------------------Facilities----------------------------*/
+
+.gym-facilities {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #4c4c50;
+    color: #22c3da;
+    padding: 20px;
+    width: 100%;
+}
+
+.facilities-heading {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.services-heading {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.memberships-heading {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
 
 /*------------------------------Trainers----------------------------*/
+
 
 .container-trainers {
     text-align: center;
@@ -82,6 +118,8 @@ body {
     text-align: center;
     font-family: 'Hind Siliguri', sans-serif;
     letter-spacing: 2px;
+    font-size: 230%;
+    text-transform: uppercase;
 }
 
 .trainer-image {
@@ -94,6 +132,42 @@ body {
     background-position-y: 0px;
     border-radius: 50%;
 }
+
+.trainer-section {
+    padding: 50px;
+}
+
+.trainer-section h2 {
+    padding-top: 20px;
+}
+
+/*-------------------------Win----------------------*/
+
+#submit-button {
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #fff;
+    background-color: #22c3da;
+    border: 1px solid #22c3da;
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 0;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.incentive {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-style: solid;
+    border-color: #4c4c50;
+}
+
+.incentive-heading {
+    padding-bottom: 50px;
+    color: #000000;
+}
+
+
 
 /*--------------------------------Map-------------------------------*/
 
@@ -139,19 +213,6 @@ body {
     color: #474554;
 }
 
-/*-------------------------Win----------------------*/
-
-#submit-button {
-    font-family: 'Hind Siliguri', sans-serif;
-    color: #fff;
-    background-color: #22c3da;
-    border: 1px solid #22c3da;
-    width: 100%;
-    padding: 10px 0;
-    border-radius: 0;
-    font-size: 14px;
-    line-height: 22px;
-}
 
 /*-------------------------form----------------------*/
 
