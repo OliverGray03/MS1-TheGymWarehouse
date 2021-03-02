@@ -257,5 +257,13 @@ body {
     line-height: 22px;
 }
 
+/*--------------------------Classes---------------------------*/
 
+.title h2 {
+    text-align: center;
+    font-size: 230%;
+    letter-spacing: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-transform: uppercase;
+}
 
