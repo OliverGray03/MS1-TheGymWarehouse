@@ -26,8 +26,8 @@
     color: #000000;
     text-transform: uppercase;
     font-family: 'Hind Siliguri', sans-serif;
-     letter-spacing: 2px;
-     font-size: 120%;
+    letter-spacing: 2px;
+    font-size: 120%;
 }
 
 .nav-item a:hover {
@@ -64,14 +64,19 @@ body {
     letter-spacing: 2px;
     font-family: 'Hind Siliguri', sans-serif;
     text-transform: uppercase;
-    
 }
 
 .about-us {
-    text-align: center;
-    font-family: 'Hind Siliguri', sans-serif;
     padding-left: 100px;
     padding-right: 100px;
+}
+
+.about-us p {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
 }
 
 
@@ -79,10 +84,13 @@ body {
 
 .gym-facilities {
     font-family: 'Hind Siliguri', sans-serif;
-    background-color: #4c4c50;
-    color: #22c3da;
+    background-color: rgba(11, 208, 235, 0.5);
+    color: #000000;
     padding: 20px;
-    width: 100%;
+    border-radius: 25px;
+    padding: 20px;
+    width: 80%px;
+    height: 250px;
 }
 
 .facilities-heading {
@@ -108,8 +116,6 @@ body {
 
 
 /*------------------------------Trainers----------------------------*/
-
-
 .container-trainers {
     text-align: center;
 }
@@ -219,18 +225,30 @@ body {
 .message-content {
     font-family: 'Hind Siliguri', sans-serif;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 0px;
     margin-bottom: 150px;
 }
 
 .message-content p {
     margin-left: 200px;
     margin-right: 200px;
+    font-size: 1.2rem;
 }
 
 .message-color {
     background-color: rgba(0, 0, 0, 0.2);
     width: 100%;
+    border-radius: 25px;
+    padding: 20px;
+    width: 80%px;
+    height: 250px;
+}
+
+.message-color h1 {
+    margin-top: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
 }
 
 .contacts-row {
@@ -238,6 +256,20 @@ body {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 200px;
+}
+
+.contact-item {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 1rem;
+}
+
+.contact-item h1 {
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.contact-details {
+    padding-top: 30px;
 }
 
 .btn-primary {
@@ -258,12 +290,39 @@ body {
 }
 
 /*--------------------------Classes---------------------------*/
-
-.title h2 {
+.title {
     text-align: center;
     font-size: 230%;
     letter-spacing: 2px;
     font-family: 'Hind Siliguri', sans-serif;
     text-transform: uppercase;
+    padding-bottom: 50px;
+    padding-top: 25px;
 }
+
+.table {
+    border: 2px solid #22c3da;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.table thead tr {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid #22c3da;
+    letter-spacing: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+.day {
+    border: 2px solid #22c3da;
+    letter-spacing: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+
 
