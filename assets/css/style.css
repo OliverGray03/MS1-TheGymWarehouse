@@ -123,12 +123,13 @@ body {
 
 .gym-facilities {
     font-family: 'Hind Siliguri', sans-serif;
-    background-color:#0b0c10;
+    background-color:#fff;
     color: #0b0c10;   
 }
 
 .gym-facilities h2 {
     margin-top: 10px;
+    color: #0b0c10;
 }
 
 .list {
@@ -141,8 +142,9 @@ body {
 .list-group-item {
     position: relative;
     padding: 1rem 1.25rem;
-    background-color: #fff;
+    background-color: #1f2833;
     border: 1px solid #22c3da;
+    color: #fff;
 }
 
 /*------------------------------Trainers----------------------------*/
@@ -190,6 +192,26 @@ body {
     border-radius: 0;
     font-size: 14px;
     line-height: 22px;
+}
+
+.success {
+    display: none;
+}
+
+.submitted .success {
+    display: block;
+}
+
+.submitted .form-content {
+    display: none;
+}
+
+.success p {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 120%;
+    text-align: center;
 }
 
 .incentive {
@@ -260,7 +282,7 @@ body {
 }
 
 .message-content p {
-   text-align: center;
+    text-align: center;
     font-size: 1.3rem;
     color: #fff;
 }
@@ -269,24 +291,6 @@ body {
     background-color: #0b0c10;
     width: 100%;
     padding: 20px;
-}
-
-.contacts-row {
-    display: flex;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 100px;
-}
-
-.contact-item {
-    font-family: 'Hind Siliguri', sans-serif;
-    font-size: 1rem;
-    color: #fff;
-    font-size: 1.2rem;
-}
-
-.contact-details {
-    padding-top: 30px;
 }
 
 .btn-primary {
@@ -306,11 +310,45 @@ body {
     line-height: 22px;
 }
 
+.contact-details {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color:#fff;
+    color: #0b0c10;   
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.contact-heading {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color:#fff;
+    color: #0b0c10;
+}
+
+.contact-heading h2 {
+    margin-top: 10px;
+    color: #0b0c10;
+}
+
+.list {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.list-group-item {
+    position: relative;
+    padding: 1rem 1.25rem;
+    background-color: #1f2833;
+    border: 1px solid #22c3da;
+    color: #fff;
+}
+
 /*--------------------------Classes---------------------------*/
 
 .schedule-table {
     overflow-x: auto;
-    background-color: #0b0c10;
+    background-color: #fff;
 }
 
 .title h2 {
@@ -344,7 +382,7 @@ body {
     border: 2px solid #22c3da;
     font-family: 'Hind Siliguri', sans-serif;
     margin-bottom: 0;
-    color: #fff;
+    color: #0b0c10;
 }
 
 .table th {
