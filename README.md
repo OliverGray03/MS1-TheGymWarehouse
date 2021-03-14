@@ -5,41 +5,41 @@
 (image)
 [The live site can be viewed here (https://olivergray03.github.io/MS1EXAMPLE/)]
 
-#UX
-##Strategy
-###Project Goals
+# UX
+## Strategy
+### Project Goals
 The goal of this project is to create a fictional business to customer website that offers an information point for existing members and additional content to attract and grow their customer base. 
 
-###The strategy for achieving the above business goal is;
--Creating an online presence for The Gym Warehouse
--Offering a comprehensive list of classes provided
--Offer an insight into the personal training team
--Offer an easy to sign up free pass to allow potnetial new customers the chance to experience the Gym
--Create simple easy to use UX to enhance the customers ease of use and promote a positive emotional response
--Selecting images that generate a positive emotional response as well as motivating the user. The desired effect would be for the customer to feel the gym family is one they can see themselves being a part of
+### The strategy for achieving the above business goal is;
+- Creating an online presence for The Gym Warehouse
+- Offering a comprehensive list of classes provided
+- Offer an insight into the personal training team
+- Offer an easy to sign up free pass to allow potnetial new customers the chance to experience the Gym
+- Create simple easy to use UX to enhance the customers ease of use and promote a positive emotional response
+- Selecting images that generate a positive emotional response as well as motivating the user. The desired effect would be for the customer to feel the gym family is one they can see themselves being a part of
 
-##Customer Goals
+## Customer Goals
 Prospective users 
 There are two core prospective users for this website;
 -An existing gym customer looking for information and details on the class timetable, personal trainers and contact information
 -A potential new customer looking for information on contact details, facilities & services and sign up offers
 
 The ideal user of this website is; 
--Is looking for the best gym in their area to sign up to 
--Enjoys personal training and fitness classes
--Is interested in making new social connections 
--Provides honest feedback on both the website and gym facility
+- Is looking for the best gym in their area to sign up to 
+- Enjoys personal training and fitness classes
+- Is interested in making new social connections 
+- Provides honest feedback on both the website and gym facility
 
-##User Stories 
--As a first time user i want to find out about the gym facilities and services
--As a first time user i want to find out the location of the nearest gym 
--As a first time user i would be more inclined to sign up to the gym with a free trial 
--As a first time user i would like to find out more about the gym through their social media 
--As a returning user i would like to easily book a class online 
--As a returning user i would like to leave feedback the gym can then act on 
--As a potential new member i would like to learn more about the personal training team 
+## User Stories 
+- As a first time user i want to find out about the gym facilities and services
+- As a first time user i want to find out the location of the nearest gym 
+- As a first time user i would be more inclined to sign up to the gym with a free trial 
+- As a first time user i would like to find out more about the gym through their social media 
+- As a returning user i would like to easily book a class online 
+- As a returning user i would like to leave feedback the gym can then act on 
+- As a potential new member i would like to learn more about the personal training team 
 
-#Structure 
+# Structure 
 
 ##Features
 
