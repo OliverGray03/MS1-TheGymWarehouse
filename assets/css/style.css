@@ -29,7 +29,7 @@ h2 {
     text-transform: uppercase;
     font-family: 'Hind Siliguri', sans-serif;
     letter-spacing: 2px;
-    font-size: 120%;
+    font-size: 1.2rem;
 }
 
 .navbar-brand:hover {
@@ -41,7 +41,7 @@ h2 {
     text-transform: uppercase;
     font-family: 'Hind Siliguri', sans-serif;
     letter-spacing: 2px;
-    font-size: 120%;
+    font-size: 1.2rem;
 }
 
 .nav-item a:hover {
@@ -344,6 +344,10 @@ body {
     color: #fff;
 }
 
+.contact-heading i {
+    color: #22c3da;
+}
+
 /*--------------------------Classes---------------------------*/
 
 .schedule-table {
@@ -416,3 +420,8 @@ td p {
     text-align: center;
 }
 
+.book-now {
+    background-color: #0b0c10;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
