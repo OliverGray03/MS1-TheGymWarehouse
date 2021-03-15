@@ -3,7 +3,7 @@
 
 # The Gym Warehouse
 (image)
-[The live site can be viewed here (https://olivergray03.github.io/MS1EXAMPLE/)]
+The live site can be viewed [here](https://olivergray03.github.io/MS1EXAMPLE/)
 
 # UX
 ## Strategy
