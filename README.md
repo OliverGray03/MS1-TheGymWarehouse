@@ -107,29 +107,30 @@ This project was developed using Gitpod IDE and pushed to Github using the in-bu
 
 This project was deployed from the Github Respository to GitHub Pages using the following steps:
 
-1 Log into Github.
-2 Select the OliverGray03/MS1EXAMPLErespository.
-3 Click the settings tab.
-4 Scroll to the GitHub Pages section of the page.
-5 Under the source heading select the master branch option.
-6 Click save.
-7 The project has now been deployed. Scroll back to the GitHub pages section and click on the link above the source heading to view the live site.
+1. Log into Github.
+2. Select the OliverGray03/MS1EXAMPLErespository.
+3. Click the settings tab.
+4. Scroll to the GitHub Pages section of the page.
+5. Under the source heading select the master branch option.
+6. Click save.
+7. The project has now been deployed. Scroll back to the GitHub pages section and click on the link above the source heading to view the live site.
 
 Making a clone to run locally
-1 Log into GitHub
-2 Select the respository
-3 Click the Code dropdown button next to the green Gitpod button
-4 Download ZIP file and unpackage locally and open with IDE. Alternatively copy the URL in the HTTPS box
-5 Open the alternative editor and terminal window
-6 Type 'git clone' and paste the copied URL
-7 Press Enter. A local clone will be created
+1. Log into GitHub
+2. Select the respository
+3. Click the Code dropdown button next to the green Gitpod button
+4. Download ZIP file and unpackage locally and open with IDE. Alternatively copy the URL in the HTTPS box
+5. Open the alternative editor and terminal window
+6. Type 'git clone' and paste the copied URL
+7. Press Enter. A local clone will be created
 
 ## Credits
 # Media
-The heor image was originally obtained from Luis Vidal on unsplash.com
+The hero image was originally obtained from Luis Vidal on unsplash.com
 The About us image was originally obtained from Victor Freitas on upsplash.com
 The Marc Jensen image was originally obtained from Anastase Maragos on unsplash.com
 The Antoni Boyd image was originally obtained from Luemen rutkowski on upsplash.com
 The Connie Waters image was originally obtained from on upsplash.com
-
+ 
+# Code
 
