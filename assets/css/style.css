@@ -16,7 +16,7 @@ h2 {
 /*----------------------------Nav Bar-------------------*/
 
 .navbar {
-    background-color:#1f2833;
+    background-color: #1f2833;
     position: relative;
 }
 
@@ -104,7 +104,7 @@ body {
 
 .gym-facilities {
     font-family: 'Hind Siliguri', sans-serif;
-    background-color:#fff;
+    background-color: #fff;
     color: #0b0c10;   
 }
 
@@ -134,8 +134,8 @@ body {
 }
 
 .trainer-image {
-    width:200px;
-    height:200px;
+    width: 200px;
+    height: 200px;
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: cover;
@@ -301,7 +301,7 @@ body {
 
 .contact-heading {
     font-family: 'Hind Siliguri', sans-serif;
-    background-color:#fff;
+    background-color: #fff;
     color: #0b0c10;
 }
 
