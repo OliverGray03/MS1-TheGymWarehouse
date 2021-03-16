@@ -37,7 +37,7 @@ h2 {
 }
 
 .nav-item a {
-    color: #f1f1f1;
+    color: #fff;
     text-transform: uppercase;
     font-family: 'Hind Siliguri', sans-serif;
     letter-spacing: 2px;
@@ -70,8 +70,9 @@ h2 {
 }
 
 /*------------------------------About Us ---------------------------*/
+
 body {
-     background-color: #1f2833;
+    background-color: #1f2833;
 }
 
 .lead {
@@ -94,7 +95,6 @@ body {
 
 .featurette-heading {
     text-align: center;
-    font-family: 'Hind Siliguri', sans-serif;
     width: 100%;
     max-width: 100%;
 }
@@ -129,7 +129,7 @@ body {
 }
 
 /*------------------------------Trainers----------------------------*/
-.container-trainers {
+.trainers {
     text-align: center;
 }
 
@@ -293,7 +293,7 @@ body {
 
 .contact-details {
     font-family: 'Hind Siliguri', sans-serif;
-    background-color:#fff;
+    background-color: #fff;
     color: #0b0c10;   
     padding-top: 25px;
     padding-bottom: 25px;

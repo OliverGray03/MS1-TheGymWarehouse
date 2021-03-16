@@ -126,11 +126,12 @@ Making a clone to run locally
 
 ## Credits
 # Media
-The hero image was originally obtained from Luis Vidal on unsplash.com
-The About us image was originally obtained from Victor Freitas on upsplash.com
-The Marc Jensen image was originally obtained from Anastase Maragos on unsplash.com
-The Antoni Boyd image was originally obtained from Luemen rutkowski on upsplash.com
-The Connie Waters image was originally obtained from on upsplash.com
+
+- The hero image was originally obtained from [Luis Vidal on unsplash.com](https://unsplash.com/photos/FodEsaNZs48)
+- The About us image was originally obtained from [Victor Freitas on upsplash.com](https://unsplash.com/photos/KkYWWpurqbE)
+- The Marc Jensen image was originally obtained from [Anastase Maragos on unsplash.com](https://unsplash.com/photos/7P5AOnw6cWQ)
+- The Antoni Boyd image was originally obtained from [Luemen rutkowski on upsplash.com](https://unsplash.com/photos/to5OvWiyOUs)
+- The Connie Waters image was originally obtained from [Sushil Ghimire on upsplash.com](https://unsplash.com/photos/eFx1KZhaSvo)
  
 # Code
 
