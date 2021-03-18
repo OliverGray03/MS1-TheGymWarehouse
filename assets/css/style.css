@@ -265,12 +265,13 @@ body {
     text-align: center;
     font-size: 1.3rem;
     color: #fff;
+    padding: 25px 200px;
 }
 
 .message-color {
-    background-color: #0b0c10;
     width: 100%;
     padding: 20px;
+    margin-top: 50px;
 }
 
 .btn-primary {
@@ -294,8 +295,8 @@ body {
     font-family: 'Hind Siliguri', sans-serif;
     background-color: #fff;
     color: #0b0c10;   
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding: 50px 0px;
+    margin-top: 50px;
 }
 
 .contact-heading {
@@ -318,15 +319,21 @@ body {
 
 .list-group-item {
     position: relative;
-    padding: 1rem 1.25rem;
-    background-color: #1f2833;
+    padding: 25px 25px;
     border: 1px solid #22c3da;
     color: #fff;
 }
 
 .contact-heading i {
     color: #22c3da;
+    padding: 15px;
 }
+
+.contact-form {
+    padding: 25px 25px;
+}
+
+
 
 /*--------------------------Classes---------------------------*/
 
