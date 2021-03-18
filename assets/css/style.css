@@ -265,7 +265,10 @@ body {
     text-align: center;
     font-size: 1.3rem;
     color: #fff;
-    padding: 25px 200px;
+    padding: 25px 0;
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
 }
 
 .message-color {
@@ -322,11 +325,19 @@ body {
     padding: 25px 25px;
     border: 1px solid #22c3da;
     color: #fff;
+    text-align: center;
 }
 
 .contact-heading i {
     color: #22c3da;
     padding: 15px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 850px) {
+    .contact-heading i {
+        width: auto;
+    }
 }
 
 .contact-form {
