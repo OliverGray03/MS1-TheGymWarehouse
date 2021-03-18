@@ -2,7 +2,7 @@
 # Contents
 
 # The Gym Warehouse
-(image)
+![Website mock ups](tgwmockups.jpeg)
 The live site can be viewed [here](https://olivergray03.github.io/MS1EXAMPLE/)
 
 # UX
@@ -31,13 +31,15 @@ The ideal user of this website is;
 - Provides honest feedback on both the website and gym facility
 
 ## User Stories 
-- As a first time user i want to find out about the gym facilities and services
-- As a first time user i want to find out the location of the nearest gym 
-- As a first time user i would be more inclined to sign up to the gym with a free trial 
-- As a first time user i would like to find out more about the gym through their social media 
-- As a returning user i would like to easily book a class online 
-- As a returning user i would like to leave feedback the gym can then act on 
-- As a potential new member i would like to learn more about the personal training team 
+- As a user i need to;
+ - Be able to navigate through the website comfortably and easily
+ - Understand the purpose of the page 
+ - Easily find out about the gym facilities and services
+ - Find out the location of the gym and how to contact the management team 
+ - Would be more inclined to sign up to the gym with a free trial 
+ - Would like to find out more about the gym through their social media 
+ - Easily book a class online 
+ - Learn more about the personal training team 
 
 # Structure 
 
@@ -77,26 +79,33 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 ## Technology used
 
-- This project is built using HTML5 semantic markup and CSS stylesheets.
-- Gitpod
-- This project was built using Gitpod as the IDE.
-- Google fonts
-- The font styles used on this website were chosen from Google fonts.
-- Bootstrap 
-- Various aspects of this website were structured using Bootstrap.
-- Bootstrap was used to make this website responsive
-- Fontawesome
-- The icons used on this page were found in Fontawesome.
-- Hover.css
-- The hover feature of the navigation links below the hero image were implemented using Hover.css.
-- Popper.js
-- Certain bootstrap responsive elements require Popper.js in order to function correctly.
-- Balsamiq
-- The wireframes for this project were created using Balsamiq.
-- Unsplash
-- The majority of images used in this project were found in Unsplash.
-- Google DevTools
-- Google Dev Tools was extensively used throughout the project for various styling and testing purposes. Its lighthouse feature was used as one of the main testing tools for this project.
+ - Workspaces
+  -Gitpod was used as the integrated development environment
+
+- Languages 
+ - HTML5
+ - CSS 3
+
+ - Frameworks and Libraries
+  - Bootstrap 5 was used for the responsiveness and styling
+  - Font Awesome was used for the icons
+  - Google Fonts 
+  - Unsplash was used for the main source of images
+
+- Version control
+ - Git
+ - Git Hub
+
+-Wireframes 
+ -Balsamiq was used to create the initial wireframes 
+
+- Other
+ - Google Maps was used across the site 
+ - W3C Markup was used as a tool to check HTML erorrs
+ - W3C CSS was used to check for erorrs in CSS
+ - Chrome lighthouse Testing was used
+ - Google Dev Tools was used throughout 
+ - Responsinator was used to test the responsiveness of the website 
 
 ## Testing 
 # Testing User Stories
