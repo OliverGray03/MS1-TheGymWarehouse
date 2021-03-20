@@ -2,7 +2,7 @@
 # Contents
 
 # The Gym Warehouse
-![Website mock ups](tgwmockups.jpeg)
+![Website mock ups](tgwmockups.jpg)
 The live site can be viewed [here](https://olivergray03.github.io/MS1EXAMPLE/)
 
 # UX
@@ -37,7 +37,7 @@ The ideal user of this website is;
  - Easily find out about the gym facilities and services
  - Find out the location of the gym and how to contact the management team 
  - Would be more inclined to sign up to the gym with a free trial 
- - Would like to find out more about the gym through their social media 
+ - Find out more about the gym through their social media pages
  - Easily book a class online 
  - Learn more about the personal training team 
 
@@ -67,7 +67,7 @@ The typography i chose is Hind Siliguri with sans-serif as a fall-back should th
 
 I chose the below color palette as i felt it best represented what the website offered. To me the palette gives the feel of a hardworking warehouse with the darker colors and a striking contrast with the aqua, a feeling of nightlife and motivation. 
 
-(palette image)
+![color palette](colorpalette.jpg)
 
 The imagery i used was found on [Unsplash](https://www.example.com). The hero image and about us image were chosen as they matched the aesthetic and color of the website whislt also representing what the gym actually looks like. The perosnal trainer images were used as customer friendly images of the trainers they can expect to meet and work with. 
 
@@ -80,7 +80,7 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 ## Technology used
 
  - Workspaces
-  -Gitpod was used as the integrated development environment
+  - Gitpod was used as the integrated development environment
 
 - Languages 
  - HTML5
@@ -96,8 +96,8 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
  - Git
  - Git Hub
 
--Wireframes 
- -Balsamiq was used to create the initial wireframes 
+- Wireframes 
+ - Balsamiq was used to create the initial wireframes 
 
 - Other
  - Google Maps was used across the site 
@@ -110,6 +110,33 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 ## Testing 
 # Testing User Stories
 
+- To be able to naviagte through the website easily
+ - The user is immediately met with the naviagtion bar at the top of the page
+ - The clickable links in the nav bar change color on a cursor hover in order to make the purpose of these links clear
+- To understand the purpose of the page
+ - The first section you see on loading the page is "about us" this section clearly details the purpose of the page
+- Easily find out about the gym facilities and services 
+ - The homepage of the website is structured into clear headed sections for the suer to easily identify facilities, services and the personal training team 
+- To be able to locate the gym and how to contact the management team
+ - The user has the option to leave feedback using an easy to use form on the contact page along with a detailed map on each page showing the gyms location
+- Find out more about the gym on their social media pages
+ - listed in the footer of each page are clear links to the business social media pages 
+- Easily book a class online 
+ - The website has a dedicated page with a timetable detailing all the classes offered. The user can then book one of these classes using the form on the same page
+
+# Testing Performance 
+- I ran a lighthouse test on the homepage and the results came back as below; 
+![Light house test results](initallightousetest.jpg)
+- I wasnt happy with the overall performance so took the below actions to fix some issues:
+ - To improve accessability i added a title to the map iframe on each page
+ - To improve SEO i added a meta description 
+ - To improve the performance i resized all the images 
+
+
+# Code validation
+- To validate my code i used the below;
+ - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. The result of this was no issues or errors
+ - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS.  
 
 ## Deployment
 This project was developed using Gitpod IDE and pushed to Github using the in-built terminal.
