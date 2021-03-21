@@ -147,9 +147,9 @@ My final Lighthouse testing results are as below;
  - Home page 
 ![Lighthouse home page test results]()
  - Classes Page
-![Lighthouse classes page test results]()
+![Lighthouse classes page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/classeslighthousefinal.jpg)
  - Contact Page
-![Lighthouse contact page test results]()
+![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
 
 
 # Code validation
