@@ -67,15 +67,25 @@ The typography i chose is Hind Siliguri with sans-serif as a fall-back should th
 
 I chose the below color palette as i felt it best represented what the website offered. To me the palette gives the feel of a hardworking warehouse with the darker colors and a striking contrast with the aqua, a feeling of nightlife and motivation. 
 
-![color palette](colorpalette.jpg)
+![Colour Palette](https://olivergray03.github.io/MS1EXAMPLE/assets/images/colorpalette.jpg)
 
 The imagery i used was found on [Unsplash](https://www.example.com). The hero image and about us image were chosen as they matched the aesthetic and color of the website whislt also representing what the gym actually looks like. The perosnal trainer images were used as customer friendly images of the trainers they can expect to meet and work with. 
 
 ## Skeleton
 
 # Wireframes
-- My wireframes were created using Balsamiq wireframes and can be found on the link below 
-- link to wireframes
+- My wireframes were created using [Balsamiq](https://balsamiq.com) wireframes and are detailed below 
+- Desktop
+![Home Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomeweb.jpg)
+![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesweb.jpg)
+![Contact Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframecontactweb.jpg)
+
+- Mobile 
+![Home Page one](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobileone.jpg)
+![Home Page two](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobiletwo.jpg)
+![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesmobile.jpg)
+![Contact Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframecontactmobile.jpg)
+
 
 ## Technology used
 
