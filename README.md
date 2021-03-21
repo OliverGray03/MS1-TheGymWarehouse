@@ -2,7 +2,7 @@
 # Contents
 
 # The Gym Warehouse
-![Website mock ups](tgwmockups.jpg)
+![Website mock ups](https://olivergray03.github.io/MS1EXAMPLE/assets/images/tgwmockups.jpg)
 The live site can be viewed [here](https://olivergray03.github.io/MS1EXAMPLE/)
 
 # UX
@@ -126,16 +126,27 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 # Testing Performance 
 - I ran a lighthouse test on the homepage and the results came back as below; 
-![Light house test results](initallightousetest.jpg)
+![Lighthouse test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/initiallighthousetest.jpg)
 - I wasnt happy with the overall performance so took the below actions to fix some issues:
  - To improve accessability i added a title to the map iframe on each page
  - To improve SEO i added a meta description 
  - To improve the performance i resized all the images 
+ - To improve best practice i added "rel=noopener" to all my social media external links
+
+My final Lighthouse testing results are as below;
+ - Home page 
+![Lighthouse home page test results]()
+ - Classes Page
+![Lighthouse classes page test results]()
+ - Contact Page
+![Lighthouse contact page test results]()
 
 
 # Code validation
 - To validate my code i used the below;
- - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. The result of this was no issues or errors
+ - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
+  - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
+![HTML Error](https://olivergray03.github.io/MS1EXAMPLE/assets/images/htmlerror.jpg)
  - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS.  
 
 ## Deployment
