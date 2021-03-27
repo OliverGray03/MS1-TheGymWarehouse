@@ -144,11 +144,11 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
     - To improve best practice i added "rel=noopener" to all my social media external links
 
 My final Lighthouse testing results are as below;
-    - Home page 
+- Home page 
 ![Lighthouse home page test results]()
-    - Classes Page
+- Classes Page
 ![Lighthouse classes page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/classeslighthousefinal.jpg)
-    - Contact Page
+- Contact Page
 ![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
 
 
