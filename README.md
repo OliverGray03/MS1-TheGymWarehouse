@@ -32,14 +32,14 @@ The ideal user of this website is;
 
 ## User Stories 
 - As a user i need to;
- - Be able to navigate through the website comfortably and easily
- - Understand the purpose of the page 
- - Easily find out about the gym facilities and services
- - Find out the location of the gym and how to contact the management team 
- - Would be more inclined to sign up to the gym with a free trial 
- - Find out more about the gym through their social media pages
- - Easily book a class online 
- - Learn more about the personal training team 
+    - Be able to navigate through the website comfortably and easily
+    - Understand the purpose of the page 
+    - Easily find out about the gym facilities and services
+    - Find out the location of the gym and how to contact the management team 
+    - Would be more inclined to sign up to the gym with a free trial 
+    - Find out more about the gym through their social media pages
+    - Easily book a class online 
+    - Learn more about the personal training team 
 
 # Structure 
 
@@ -89,99 +89,113 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 ## Technology used
 
- - Workspaces
-  - Gitpod was used as the integrated development environment
+- Workspaces
+    - Gitpod was used as the integrated development environment
 
 - Languages 
- - HTML5
- - CSS 3
+    - HTML5
+    - CSS 3
 
- - Frameworks and Libraries
-  - Bootstrap 5 was used for the responsiveness and styling
-  - Font Awesome was used for the icons
-  - Google Fonts 
-  - Unsplash was used for the main source of images
+- Frameworks and Libraries
+    - Bootstrap 5 was used for the responsiveness and styling
+    - Font Awesome was used for the icons
+    - Google Fonts 
+    - Unsplash was used for the main source of images
 
 - Version control
- - Git
- - Git Hub
+    - Git
+    - Git Hub
 
 - Wireframes 
  - Balsamiq was used to create the initial wireframes 
 
 - Other
- - Google Maps was used across the site 
- - W3C Markup was used as a tool to check HTML erorrs
- - W3C CSS was used to check for erorrs in CSS
- - Chrome lighthouse Testing was used
- - Google Dev Tools was used throughout 
- - Responsinator was used to test the responsiveness of the website 
+    - Google Maps was used across the site 
+    - W3C Markup was used as a tool to check HTML erorrs
+    - W3C CSS was used to check for erorrs in CSS
+    - Chrome lighthouse Testing was used
+    - Google Dev Tools was used throughout 
+    - Responsinator was used to test the responsiveness of the website 
 
 ## Testing 
 # Testing User Stories
 
 - To be able to naviagte through the website easily
- - The user is immediately met with the naviagtion bar at the top of the page
- - The clickable links in the nav bar change color on a cursor hover in order to make the purpose of these links clear
+    - The user is immediately met with the naviagtion bar at the top of the page
+    - The clickable links in the nav bar change color on a cursor hover in order to make the purpose of these links clear
 - To understand the purpose of the page
- - The first section you see on loading the page is "about us" this section clearly details the purpose of the page
+    - The first section you see on loading the page is "about us" this section clearly details the purpose of the page
 - Easily find out about the gym facilities and services 
- - The homepage of the website is structured into clear headed sections for the suer to easily identify facilities, services and the personal training team 
+    - The homepage of the website is structured into clear headed sections for the suer to easily identify facilities, services and the personal training team 
 - To be able to locate the gym and how to contact the management team
- - The user has the option to leave feedback using an easy to use form on the contact page along with a detailed map on each page showing the gyms location
+    - The user has the option to leave feedback using an easy to use form on the contact page along with a detailed map on each page showing the gyms location
 - Find out more about the gym on their social media pages
- - listed in the footer of each page are clear links to the business social media pages 
+    - listed in the footer of each page are clear links to the business social media pages 
 - Easily book a class online 
- - The website has a dedicated page with a timetable detailing all the classes offered. The user can then book one of these classes using the form on the same page
+    - The website has a dedicated page with a timetable detailing all the classes offered. The user can then book one of these classes using the form on the same page
 
 # Testing Performance 
 - I ran a lighthouse test on the homepage and the results came back as below; 
 ![Lighthouse test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/initiallighthousetest.jpg)
 - I wasnt happy with the overall performance so took the below actions to fix some issues:
- - To improve accessability i added a title to the map iframe on each page
- - To improve SEO i added a meta description 
- - To improve the performance i resized all the images 
- - To improve best practice i added "rel=noopener" to all my social media external links
+    - To improve accessability i added a title to the map iframe on each page
+    - To improve SEO i added a meta description 
+    - To improve the performance i resized all the images 
+    - To improve best practice i added "rel=noopener" to all my social media external links
 
 My final Lighthouse testing results are as below;
- - Home page 
+    - Home page 
 ![Lighthouse home page test results]()
- - Classes Page
+    - Classes Page
 ![Lighthouse classes page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/classeslighthousefinal.jpg)
- - Contact Page
+    - Contact Page
 ![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
 
 
 # Code validation
 - To validate my code i used the below;
- - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
-  - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
+    - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
+        - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
 ![HTML Error](https://olivergray03.github.io/MS1EXAMPLE/assets/images/htmlerror.jpg)
- - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS.  
+    - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS.  
 
-## Deployment
-This project was developed using Gitpod IDE and pushed to Github using the in-built terminal.
+# Deployment
+## GitHub Pages
 
-This project was deployed from the Github Respository to GitHub Pages using the following steps:
+This project was deployed to Github pages using the following steps:
 
-1. Log into Github.
-2. Select the OliverGray03/MS1EXAMPLErespository.
-3. Click the settings tab.
-4. Scroll to the GitHub Pages section of the page.
-5. Under the source heading select the master branch option.
-6. Click save.
+1. Log into Github 
+2. Select the OliverGray03/MS1EXAMPLE respository
+3. Click the settings tab at the top of the repository
+4. Scroll to the "GitHub Pages" section of the page
+5. Under "Source", click the dropdown called "None" and select "Master Branch"
+6. The page will automatically refresh
 7. The project has now been deployed. Scroll back to the GitHub pages section and click on the link above the source heading to view the live site.
 
-Making a clone to run locally
+## Forking the GitHub repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
+
+1. Log into Github 
+2. Select the OliverGray03/MS1EXAMPLE respository.
+3. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button
+4. You should now have a copy of the original repository in your GitHub account
+
+## Making a clone to run locally
+
 1. Log into GitHub
-2. Select the respository
-3. Click the Code dropdown button next to the green Gitpod button
-4. Download ZIP file and unpackage locally and open with IDE. Alternatively copy the URL in the HTTPS box
-5. Open the alternative editor and terminal window
-6. Type 'git clone' and paste the copied URL
-7. Press Enter. A local clone will be created
+2. Select the OliverGray03/MS1EXAMPLE respository
+3. Under the repository name, click "Clone or download"
+4. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link
+5. Open Git Bash
+6. Change the current working directory to the location where you want the cloned directory to be made
+7. Type "git clone", and then paste the URL you copied in Step 3
 
 ## Credits
+# Code
+
+- [Bootstrap 5.0](https://getbootstrap.com/) was used throughout the project, mainly to make the site reponsive
+
 # Media
 
 - The hero image was originally obtained from [Luis Vidal on unsplash.com](https://unsplash.com/photos/FodEsaNZs48)
@@ -190,5 +204,5 @@ Making a clone to run locally
 - The Antoni Boyd image was originally obtained from [Luemen rutkowski on upsplash.com](https://unsplash.com/photos/to5OvWiyOUs)
 - The Connie Waters image was originally obtained from [Sushil Ghimire on upsplash.com](https://unsplash.com/photos/eFx1KZhaSvo)
  
-# Code
+
 
