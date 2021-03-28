@@ -21,8 +21,8 @@ The goal of this project is to create a fictional business to customer website t
 ## Customer Goals
 Prospective users 
 There are two core prospective users for this website;
--An existing gym customer looking for information and details on the class timetable, personal trainers and contact information
--A potential new customer looking for information on contact details, facilities & services and sign up offers
+- An existing gym customer looking for information and details on the class timetable, personal trainers and contact information
+- A potential new customer looking for information on contact details, facilities & services and sign up offers
 
 The ideal user of this website is; 
 - Is looking for the best gym in their area to sign up to 
@@ -75,12 +75,12 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 # Wireframes
 - My wireframes were created using [Balsamiq](https://balsamiq.com) wireframes and are detailed below 
-- Desktop
+    - Desktop
 ![Home Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomeweb.jpg)
 ![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesweb.jpg)
 ![Contact Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframecontactweb.jpg)
 
-- Mobile 
+    - Mobile 
 ![Home Page one](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobileone.jpg)
 ![Home Page two](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobiletwo.jpg)
 ![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesmobile.jpg)
@@ -117,8 +117,8 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
     - Google Dev Tools was used throughout 
     - [Responsinator](http://www.responsinator.com/) was used to test the responsiveness of the website 
 
-## Testing 
-# Testing User Stories
+# Testing 
+## Testing User Stories
 
 - To be able to naviagte through the website easily
     - The user is immediately met with the navigation bar at the top of the page
@@ -134,7 +134,7 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 - Easily book a class online 
     - The website has a dedicated page with a timetable detailing all the classes offered. The user can then book one of these classes using the form on the same page
 
-# Testing Performance 
+## Testing Performance 
 - I ran a lighthouse test on the homepage and the results came back as below; 
 ![Lighthouse test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/initiallighthousetest.jpg)
 - I wasnt happy with the overall performance so took the below actions to fix some issues:
@@ -151,6 +151,19 @@ My final Lighthouse testing results are as below;
 - Contact Page
 ![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
 
+## Testing functionality
+- Index
+    - Starting with the navbar i tested the hover.css on the links to other pages and the title. 
+    - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
+    - I tested the functioanlity of the location map and was able to move around as well as veiw a larger map in a seperate tab
+    - I tested the hover.css and functionality of the social media links ensuring the web page opened in a seperate tab
+- Classes
+    - I tested the timetable on a smaller device to ensure to scroll function was working
+    - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
+- Contact Page
+    - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
+
+
 ## Further Testing
 
 - The website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers
@@ -158,12 +171,12 @@ My final Lighthouse testing results are as below;
 - The above testing showed no errors and the website is cross-browser and cross-device compatible
 
 # Code validation
-- To validate my code i used the below;
-    - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
-        - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
+To validate my code i used the below;
+- [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
+    - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
 ![HTML Error](https://olivergray03.github.io/MS1EXAMPLE/assets/images/htmlerror.jpg)
-    - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS. 
-        - Two errors were found when running this, as seen below. However, these errors are caused by the bootstrap CDN 
+- [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS. 
+    - Two errors were found when running this, as seen below. However, these errors are caused by the bootstrap CDN 
 ![CSS Errors](https://olivergray03.github.io/MS1EXAMPLE/assets/images/csserrors.jpg)
 
 
