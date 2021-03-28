@@ -93,35 +93,35 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
     - Gitpod was used as the integrated development environment
 
 - Languages 
-    - HTML5
-    - CSS 3
+    - [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+    - [CSS 3](https://en.wikipedia.org/wiki/CSS) 
 
 - Frameworks and Libraries
-    - Bootstrap 5 was used for the responsiveness and styling
-    - Font Awesome was used for the icons
-    - Google Fonts 
-    - Unsplash was used for the main source of images
+    - [Bootstrap 5](https://getbootstrap.com/) was used for the responsiveness and styling
+    - [Font Awesome](https://fontawesome.com/) was used for the icons
+    - [Google Fonts](https://fonts.google.com/) 
+    - [Unsplash](https://unsplash.com/) was used for the main source of images
 
 - Version control
-    - Git
-    - Git Hub
+    - [Git](https://git-scm.com/)
+    - [Git Hub](https://github.com/)
 
 - Wireframes 
- - Balsamiq was used to create the initial wireframes 
+    - [Balsamiq](https://balsamiq.com/) was used to create the initial wireframes 
 
 - Other
-    - Google Maps was used across the site 
-    - W3C Markup was used as a tool to check HTML erorrs
-    - W3C CSS was used to check for erorrs in CSS
-    - Chrome lighthouse Testing was used
+    - [Google Maps](https://www.google.co.uk/maps/) was used across the site 
+    - [W3C Markup Validator](https://validator.w3.org/) was used as a tool to check HTML erorrs
+    - [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) was used to check for erorrs in CSS
+    - [Chrome lighthouse](https://en.wikipedia.org/wiki/Google_Lighthouse) Testing was used
     - Google Dev Tools was used throughout 
-    - Responsinator was used to test the responsiveness of the website 
+    - [Responsinator](http://www.responsinator.com/) was used to test the responsiveness of the website 
 
 ## Testing 
 # Testing User Stories
 
 - To be able to naviagte through the website easily
-    - The user is immediately met with the naviagtion bar at the top of the page
+    - The user is immediately met with the navigation bar at the top of the page
     - The clickable links in the nav bar change color on a cursor hover in order to make the purpose of these links clear
 - To understand the purpose of the page
     - The first section you see on loading the page is "about us" this section clearly details the purpose of the page
@@ -145,19 +145,27 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 My final Lighthouse testing results are as below;
 - Home page 
-![Lighthouse home page test results]()
+![Lighthouse home page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/homepagelighthousefinal.jpg)
 - Classes Page
 ![Lighthouse classes page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/classeslighthousefinal.jpg)
 - Contact Page
 ![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
 
+## Further Testing
+
+- The website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers
+- The website was veiwed on a variety of devices such as Desktop, laptop, iPhone 7 plus, iPhone X and iPad mini 4
+- The above testing showed no errors and the website is cross-browser and cross-device compatible
 
 # Code validation
 - To validate my code i used the below;
     - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
         - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
 ![HTML Error](https://olivergray03.github.io/MS1EXAMPLE/assets/images/htmlerror.jpg)
-    - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS.  
+    - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS. 
+        - Two errors were found when running this, as seen below. However, these errors are caused by the bootstrap CDN 
+![CSS Errors](https://olivergray03.github.io/MS1EXAMPLE/assets/images/csserrors.jpg)
+
 
 # Deployment
 ## GitHub Pages
@@ -195,6 +203,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 # Code
 
 - [Bootstrap 5.0](https://getbootstrap.com/) was used throughout the project, mainly to make the site reponsive
+- The inspiration for the table on classes.html came from [Wrapbootstrap](https://gym.chitrakootweb.com/)
 
 # Media
 
