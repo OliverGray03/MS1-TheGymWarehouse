@@ -123,22 +123,22 @@ The imagery i used was found on [Unsplash](https://unsplash.com/). The hero imag
 
 - There are two types of ideal or prospective users of the web page as outlined in the customer goals. The first of these is a potential customer looking for a gym to sign up to in the area, the second is a current member looking to easily book an upcoming class. The above testing was performed from a general point of veiw, however to ensure these two users had a successful journey i focused on the below; 
     - As a new user was i easily and fully informed and would i sign up to this gym? 
-        - I am aware of the brand name and identity as it is displayed in the navigation bar 
+        - I am aware of the brand name and identity as it is displayed in the navigation bar. This is important to me as i am new to the brand
         - I am immediately met with a large motivational image which also gives me an idea of the gym layout and theme
         - I am then met with an about us section, with some marketing text to engage the reader
-        - I am then informed of the gym's facilities, services and membership options
-        - I then see a clearly defined section about the personal trainers of the gym and friednly inviting images
-        - I am then drawn into an offer to experience the gym and its facilities for free with an easy to use form 
-        - Finally i am informed of the gyms location and social media pages to explore further
+        - I am then informed of the gym's facilities, services and membership options. This is important to me as i am looking for specific facilities in the gym i chose to sign up to 
+        - I then see a clearly defined section about the personal trainers of the gym and friednly inviting images. This is of interest to me as i am interested about professional background of the trainers i may be working out with 
+        - I am then drawn into an offer to experience the gym and its facilities for free with an easy to use form. This is important to me as other gyms i am looking at dont provide a free opportunity to experience the gym
+        - Finally i am informed of the gyms location and social media pages to explore further. This is of interest to me as i wish to see more images and detail of the gym and its facilities 
         - From the homepage it is easy to understand there are further informative pages and how i can access these, it is clear is can find further contact information and ask a member of staff a question on the contact page
     - This is a clear structured index page with all the detail i would need to feel informed and incentivised to make a decision
 
     - As a gym member i would like to easily see the class timetable and book a class
         - From the homepage it is clear where i can find details on classes the gym offers
-        - Upon entering the classes page i am met with a clearly structured timetable 
+        - Upon entering the classes page i am met with a clearly structured timetable. It is important to me that the timetable is clearly structured and easy to read
         - if i am on another device it is clear i can use a scroll function to see the full timetable 
-        - Below the timetable i am given the option to book a class using a form 
-        - On completing the form i am met with prompts should i miss a section and a success message on completion stating i will be sent a confirmation email 
+        - Below the timetable i am given the option to book a class using a form. This is important to me as i can sign up to a class without having to be in the gym or call the customer service team
+        - On completing the form i am met with prompts should i miss a section and a success message on completion stating i will be sent a confirmation email. This is important to me as i need confirmation in order to attend the class i wish
     - It is a simple and easy process to book a class or find out more by asking a question on the contact form
 
 - The above details specific user stories. The below section is more generic for all users 
