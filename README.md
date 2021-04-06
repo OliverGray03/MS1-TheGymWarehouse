@@ -27,7 +27,7 @@ There are two core prospective users for this website;
 The ideal user of this website is; 
 - Is looking for the best gym in their area to sign up to 
 - Enjoys personal training and fitness classes
-- Is interested in making new social connections 
+- Is a gym member looking to easily and quickly book an upcoming class
 - Provides honest feedback on both the website and gym facility
 
 ## User Stories 
@@ -95,16 +95,17 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 - Languages 
     - [HTML5](https://en.wikipedia.org/wiki/HTML5) 
     - [CSS 3](https://en.wikipedia.org/wiki/CSS) 
+    - [Java Script](https://en.wikipedia.org/wiki/JavaScript)
 
 - Frameworks and Libraries
     - [Bootstrap 5](https://getbootstrap.com/) was used for the responsiveness and styling
     - [Font Awesome](https://fontawesome.com/) was used for the icons
-    - [Google Fonts](https://fonts.google.com/) 
+    - [Google Fonts](https://fonts.google.com/) was used for font styles
     - [Unsplash](https://unsplash.com/) was used for the main source of images
 
 - Version control
-    - [Git](https://git-scm.com/)
-    - [Git Hub](https://github.com/)
+    - [Git](https://git-scm.com/) was used as version control
+    - [Git Hub](https://github.com/) was used for repository hosting
 
 - Wireframes 
     - [Balsamiq](https://balsamiq.com/) was used to create the initial wireframes 
@@ -118,7 +119,29 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
     - [Responsinator](http://www.responsinator.com/) was used to test the responsiveness of the website 
 
 # Testing 
-## Testing User Stories
+## Testing User Stories 
+
+- There are two types of ideal or prospective users of the web page as outlined in the customer goals. The first of these is a potential customer looking for a gym to sign up to in the area, the second is a current member looking to easily book an upcoming class. The above testing was performed from a general point of veiw, however to ensure these two users had a successful journey i focused on the below; 
+    - As a new user was i easily and fully informed and would i sign up to this gym? 
+        - I am aware of the brand name and identity as it is displayed in the navigation bar 
+        - I am immediately met with a large motivational image which also gives me an idea of the gym layout and theme
+        - I am then met with an about us section, with some marketing text to engage the reader
+        - I am then informed of the gym's facilities, services and membership options
+        - I then see a clearly defined section about the personal trainers of the gym and friednly inviting images
+        - I am then drawn into an offer to experience the gym and its facilities for free with an easy to use form 
+        - Finally i am informed of the gyms location and social media pages to explore further
+        - From the homepage it is easy to understand there are further informative pages and how i can access these, it is clear is can find further contact information and ask a member of staff a question on the contact page
+    - This is a clear structured index page with all the detail i would need to feel informed and incentivised to make a decision
+
+    - As a gym member i would like to easily see the class timetable and book a class
+        - From the homepage it is clear where i can find details on classes the gym offers
+        - Upon entering the classes page i am met with a clearly structured timetable 
+        - if i am on another device it is clear i can use a scroll function to see the full timetable 
+        - Below the timetable i am given the option to book a class using a form 
+        - On completing the form i am met with prompts should i miss a section and a success message on completion stating i will be sent a confirmation email 
+    - It is a simple and easy process to book a class or find out more by asking a question on the contact form
+
+- The above details specific user stories. The below section is more generic for all users 
 
 - To be able to naviagte through the website easily
     - The user is immediately met with the navigation bar at the top of the page
@@ -131,8 +154,11 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
     - The user has the option to leave feedback using an easy to use form on the contact page along with a detailed map on each page showing the gyms location
 - Find out more about the gym on their social media pages
     - listed in the footer of each page are clear links to the business social media pages 
+    - All these links change colour as they should in the theme of the page to indicate they are clickable links
+    - As is best practice these pages open in a new tab for the user so they can return to the gym page easily
 - Easily book a class online 
     - The website has a dedicated page with a timetable detailing all the classes offered. The user can then book one of these classes using the form on the same page
+    - This form provides feedback when i havent entered all or the correct information and a success message when i have 
 
 ## Testing Performance 
 - I ran a lighthouse test on the homepage and the results came back as below; 
@@ -162,6 +188,9 @@ My final Lighthouse testing results are as below;
     - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
 - Contact Page
     - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
+- responsiveness
+    - I tested all the about functions across mobile, tablet and desktop to ensure they were consistantly working 
+    - I tested the functionality, responsiveness and readability across mobile, tablet and desktop
 
 
 ## Further Testing
