@@ -2,8 +2,8 @@
 # Contents
 
 # The Gym Warehouse
-![Website mock ups](https://olivergray03.github.io/MS1EXAMPLE/assets/images/tgwmockups.jpg)
-The live site can be viewed [here](https://olivergray03.github.io/MS1EXAMPLE/)
+![Website mock ups](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/tgwmockups.jpg)
+The live site can be viewed [here](https://olivergray03.github.io/MS1-TheGymWarehouse/)
 
 # UX
 ## Strategy
@@ -67,24 +67,24 @@ The typography i chose is Hind Siliguri with sans-serif as a fall-back should th
 
 I chose the below color palette as i felt it best represented what the website offered. To me the palette gives the feel of a hardworking warehouse with the darker colors and a striking contrast with the aqua, a feeling of nightlife and motivation. 
 
-![Colour Palette](https://olivergray03.github.io/MS1EXAMPLE/assets/images/colorpalette.jpg)
+![Colour Palette](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/colorpalette.jpg)
 
-The imagery i used was found on [Unsplash](https://www.example.com). The hero image and about us image were chosen as they matched the aesthetic and color of the website whislt also representing what the gym actually looks like. The perosnal trainer images were used as customer friendly images of the trainers they can expect to meet and work with. 
+The imagery i used was found on [Unsplash](https://unsplash.com/). The hero image and about us image were chosen as they matched the aesthetic and color of the website whislt also representing what the gym actually looks like. The perosnal trainer images were used as customer friendly images of the trainers they can expect to meet and work with. 
 
 ## Skeleton
 
 # Wireframes
 - My wireframes were created using [Balsamiq](https://balsamiq.com) wireframes and are detailed below 
     - Desktop
-![Home Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomeweb.jpg)
-![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesweb.jpg)
-![Contact Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframecontactweb.jpg)
+![Home Page](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframehomeweb.jpg)
+![Classes Page](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframeclassesweb.jpg)
+![Contact Page](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframecontactweb.jpg)
 
     - Mobile 
-![Home Page one](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobileone.jpg)
-![Home Page two](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframehomemobiletwo.jpg)
-![Classes Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframeclassesmobile.jpg)
-![Contact Page](https://olivergray03.github.io/MS1EXAMPLE/assets/images/wireframecontactmobile.jpg)
+![Home Page one](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframehomemobileone.jpg)
+![Home Page two](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframehomemobiletwo.jpg)
+![Classes Page](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframeclassesmobile.jpg)
+![Contact Page](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/wireframecontactmobile.jpg)
 
 
 ## Technology used
@@ -162,7 +162,7 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 ## Testing Performance 
 - I ran a lighthouse test on the homepage and the results came back as below; 
-![Lighthouse test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/initiallighthousetest.jpg)
+![Lighthouse test results](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/initiallighthousetest.jpg)
 - I wasnt happy with the overall performance so took the below actions to fix some issues:
     - To improve accessability i added a title to the map iframe on each page
     - To improve SEO i added a meta description 
@@ -171,11 +171,11 @@ The imagery i used was found on [Unsplash](https://www.example.com). The hero im
 
 My final Lighthouse testing results are as below;
 - Home page 
-![Lighthouse home page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/homepagelighthousefinal.jpg)
+![Lighthouse home page test results](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/homepagelighthousefinal.jpg)
 - Classes Page
-![Lighthouse classes page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/classeslighthousefinal.jpg)
+![Lighthouse classes page test results](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/classeslighthousefinal.jpg)
 - Contact Page
-![Lighthouse contact page test results](https://olivergray03.github.io/MS1EXAMPLE/assets/images/contactpagelighthousefinal.jpg)
+![Lighthouse contact page test results](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/contactpagelighthousefinal.jpg)
 
 ## Testing functionality
 - Index
@@ -188,6 +188,7 @@ My final Lighthouse testing results are as below;
     - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
 - Contact Page
     - I tested the functionality of the form by entering information both partially and fully to see either a success message or prompt for more information
+    - On testing the contact page i found there was an added margin and the page could be scrolled right and overflowing due to content inside contact details section. To fix this i added a "no-gutters" to my row inside the container
 - responsiveness
     - I tested all the about functions across mobile, tablet and desktop to ensure they were consistantly working 
     - I tested the functionality, responsiveness and readability across mobile, tablet and desktop
@@ -203,10 +204,10 @@ My final Lighthouse testing results are as below;
 To validate my code i used the below;
 - [W3C Markup](https://validator.w3.org/) was used to validate my HTML. 
     - One error was presented when validating my HTML. A width of 100% had been added into the HTML code, i therefore removed this and added it to my CSS
-![HTML Error](https://olivergray03.github.io/MS1EXAMPLE/assets/images/htmlerror.jpg)
+![HTML Error](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/htmlerror.jpg)
 - [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate my CSS. 
     - Two errors were found when running this, as seen below. However, these errors are caused by the bootstrap CDN 
-![CSS Errors](https://olivergray03.github.io/MS1EXAMPLE/assets/images/csserrors.jpg)
+![CSS Errors](https://olivergray03.github.io/MS1-TheGymWarehouse/assets/images/csserrors.jpg)
 
 
 # Deployment
@@ -215,7 +216,7 @@ To validate my code i used the below;
 This project was deployed to Github pages using the following steps:
 
 1. Log into Github 
-2. Select the OliverGray03/MS1EXAMPLE respository
+2. Select the OliverGray03/MS1-TheGymWarehouse respository
 3. Click the settings tab at the top of the repository
 4. Scroll to the "GitHub Pages" section of the page
 5. Under "Source", click the dropdown called "None" and select "Master Branch"
@@ -227,14 +228,14 @@ This project was deployed to Github pages using the following steps:
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
 
 1. Log into Github 
-2. Select the OliverGray03/MS1EXAMPLE respository.
+2. Select the OliverGray03/MS1-TheGymWarehouse respository.
 3. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button
 4. You should now have a copy of the original repository in your GitHub account
 
 ## Making a clone to run locally
 
 1. Log into GitHub
-2. Select the OliverGray03/MS1EXAMPLE respository
+2. Select the OliverGray03/MS1-TheGymWarehouse respository
 3. Under the repository name, click "Clone or download"
 4. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link
 5. Open Git Bash
